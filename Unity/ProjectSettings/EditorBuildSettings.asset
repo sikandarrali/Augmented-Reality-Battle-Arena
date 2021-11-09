@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 1f8da07399a51b24199f4432c48362d3
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: f699597c637317344bad25a21c851661
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: bd47a38938e6e4a40b2e316e4abde772
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: d728e22b2d81efe4d93d3ae60c89ca1b,
+      type: 2}
