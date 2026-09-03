@@ -1,4 +1,4 @@
-![Augmented Reality Battle Arena](https://raw.githubusercontent.com/sikandarchishty/Augmented-Reality-Battle-Arena/master/Designs/Logo/AR%20Battle%20Arena%20Logo%20-%20bg.png?token=AETLCOWVBCHFGRRJNEO2FJLBRLSTQ)
+![Augmented Reality Battle Arena](https://raw.githubusercontent.com/sikandarrali/Augmented-Reality-Battle-Arena/refs/heads/master/Assets/Graphics/ar-battle-arena-with-bg.png)
 # Augmented Reality Battle Arena
 The AR Battle Arena is a multiplayer augmented reality game which provides users with the experience of a street fighting games like tekken in augmented reality.
 
@@ -60,7 +60,7 @@ The prototype 2 contains the most lastest implementation part in which you can T
 
 ## Designs & 3d Models
 - Designs
-    - [Logo](Designs/Logo)
+    - [Logo](/Assets/Graphics/ar-battle-arena-with-bg.png)
     - [UI Designs](Designs/UI Design)
 - 3d Models
     - [Character (Blender File)](3d Models/Character)
